@@ -13,7 +13,7 @@ body {
   z-index: 1;
 }
 
-.video {
+.video, .canvas {
   position: fixed;
   min-height: 100vh;
   min-width: 100vw;
